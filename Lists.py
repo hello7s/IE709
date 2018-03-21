@@ -13,7 +13,7 @@ for x in mylist:
 
 numbers = [1,2,3]
 strings = ["hello","world"]
-names = ["John", "Eric", "Jessica"]
+names = ["Luke", "Eric", "Jessica"]
 
 # write your code here
 second_name = names[1]
